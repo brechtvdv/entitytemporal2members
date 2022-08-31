@@ -70,7 +70,7 @@ so we create three members:
 Member at 2022-06-28T10:09:16.000Z:
 ```
 [{
-        "id": "urn:ngsi-v2:cot-imec-be:WaterQualityObserved:vmm-iow-46GLMKCC78gWVCnXG9UxKM/2022-06-28T10:22:07.000Z",
+        "id": "urn:ngsi-v2:cot-imec-be:WaterQualityObserved:vmm-iow-46GLMKCC78gWVCnXG9UxKM/2022-06-28T10:09:16.000Z",
         "type": "https://uri.fiware.org/ns/data-models#WaterQualityObserved",
         "dcterms:isVersionOf": "urn:ngsi-v2:cot-imec-be:WaterQualityObserved:vmm-iow-46GLMKCC78gWVCnXG9UxKM",
         "NO3": [
